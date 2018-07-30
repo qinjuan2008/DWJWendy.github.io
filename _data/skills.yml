@@ -2,13 +2,11 @@
   keywords:
       - Java
       - C
-      - C++
       - PHP
       - Python
       - hadoop
       - hive
-
-
+      
 - name: Research Direction
   keywords:
       - NLP
@@ -16,7 +14,3 @@
       - Business Intelligence
       - Recommended System
       - Machine Learning
-
-- name: Research Results
-  keywords:
-      - 挖掘企业事件演化

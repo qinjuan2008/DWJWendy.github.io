@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-description: Wendy's Personal Blog
-keywords: 毛毛虫, Wendy
+description: Qinjuan's Personal Blog
+keywords: Qinjuan
 comments: true
 menu: 关于
 permalink: /about/
@@ -16,11 +16,8 @@ subtitle:   <h3>Download My CV</h3>
                             
 ---
 
-我是毛毛虫_Wendy，一直努力，不断进步。
+Qinjuan
 
-等待破茧成蝶。
-
-记录知识，坚信努力改变人生。
 
 ## 联系
 
