@@ -2,10 +2,10 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mmcwendy.info
+url: http://qinjuan.info
 date_format: "ordinal"
-title: 毛毛虫_Wendy
-subtitle: "Wendy's Personal Blog"
+title: Qinjuan_FD
+subtitle: "Qinjuan's Personal Blog"
 description: "Record ideas and knowledge"
 keywords: Algorithm,Machine Learning(eg.Deep Learning),Data mining
 timezone: Asia/Beijing
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Wendy
-organization: UESTC
-organization_url: http://mmcwendy.info
-github_username: DWJWendy
-location: Chengdu, sichuan
-email: dengwenjun818@gmail.com
+author: Qinjuan
+organization: CMCC
+organization_url: http://qinjuan.info
+github_username: qinjuan2008
+location: Shanghai
+email: qinjuan2008@126.com
 
 # ---------------- #
 #    Navigation    #
@@ -99,19 +99,19 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: wenjun d
+    username: qinjuan2008
 
     
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: DWJWendy
+    owner: qinjuan2008
     repo: blog-comments
     oauth:
         client_id: ef4ee0f3d879e724a46c
         client_secret: 2a98b4739a3712bb347ed63cf50b5a07e41f4c48
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: DWJWendy
+    owner: qinjuan2008
     repo: blog-comments
     clientID: ef4ee0f3d879e724a46c
     clientSecret: 2a98b4739a3712bb347ed63cf50b5a07e41f4c48
